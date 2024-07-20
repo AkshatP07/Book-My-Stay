@@ -1,5 +1,5 @@
 # Book My Stay
-
+This is a React.js project bootstrapped with vite.
 ## Getting Started
 
 1. **Clone the Repository:**
