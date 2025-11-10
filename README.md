@@ -32,3 +32,5 @@ This is a React.js project bootstrapped with vite.
     API routes can be accessed on http://localhost:4000/[endpoint]. This endpoint can be edited in `api/index.js`.
 
     Files in this api are treated as API routes instead of React pages.
+   <img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/e7e772ea-6174-4f94-8ded-4c8862ee2e42" />
+
