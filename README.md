@@ -33,10 +33,11 @@ This is a React.js project bootstrapped with vite.
 
     Files in this api are treated as API routes instead of React pages.
 # Here are some project ss
+   <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/1967b86d-fad4-4646-93e2-0a9f085c4e64" />
    <img width="1920" height="1080" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/e7e772ea-6174-4f94-8ded-4c8862ee2e42" />
    <img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/c2bc0b8e-fda5-4376-b04c-7127a8dbf259" />
    <img width="1920" height="1080" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/eaf17083-34bf-4dca-ad5a-a953aca9275c" />
-   <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/1967b86d-fad4-4646-93e2-0a9f085c4e64" />
+   
 
 
 
